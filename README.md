@@ -15,7 +15,6 @@ Ensure you have the following tools installed:
 - [Quartus Prime](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)
 - [ModelSim](https://www.intel.com/content/www/us/en/software/programmable/modelsim/overview.html)
 
-
 ## Skills Developed
 - **Digital Design & FPGA Programming**
 - **Finite Field Arithmetic Algorithms**
